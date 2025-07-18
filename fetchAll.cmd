@@ -1,12 +1,3 @@
-# fetch_all_git_branch
-
-- Windows Cmd file to fetch all branches in a git branch.
-
-## Cmd file 
-
-- `fetch.cmd` 
-
-```cmd
 :: fetch.cmd
 ::
 :: This script deletes and re-clones specific Git repositories, 
@@ -60,10 +51,6 @@ git status
 cd
 cd ..
 cd 
-```
 
-## License 
 
-- MIT License
-- https://github.com/JayTwoLab/fetch_all_git_branch
 
