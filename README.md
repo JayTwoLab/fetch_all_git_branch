@@ -14,7 +14,7 @@
 
 @echo off
 
-:: Please set the values below.
+:: TODO: Set Git repository name and URL.
 set GIT_REPO_NAME=QPing
 set GIT_REPO=https://github.com/JayTwoLab/QPing.git
 
@@ -74,6 +74,7 @@ cd
 # Save current working directory
 $WORKDIR = Get-Location
 
+# TODO: Set Git repository name and URL.
 $GIT_NAME = "QPing"
 $GIT_REPO = "https://github.com/JayTwoLab/QPing.git"
 
@@ -116,7 +117,7 @@ cd ..
 # Save the current working directory
 WORKDIR=$(pwd)
 
-# Set Git repository name and URL
+# TODO: Set Git repository name and URL.
 GIT_NAME="QPing"
 GIT_REPO="https://github.com/JayTwoLab/QPing.git"
 
