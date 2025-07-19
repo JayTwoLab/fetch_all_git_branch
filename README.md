@@ -1,6 +1,6 @@
 # fetch_all_git_branch
 
-- Windows Cmd and Poweshell file to fetch all branches in a git branch.
+- Windows Cmd, Poweshell, bash file to fetch all branches in a git branch.
 
 ## Cmd file 
 
